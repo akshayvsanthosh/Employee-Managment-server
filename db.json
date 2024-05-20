@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": "8928",
+      "uid": "2",
+      "uName": "akshay",
+      "email": "akshay@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "eed1",
+      "uid": "5",
+      "uName": "raju",
+      "email": "raju@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "f8ef",
+      "uid": "6",
+      "uName": "Niya",
+      "email": "niya@gmail.com",
+      "status": "Active"
+    }
+  ]
+}
